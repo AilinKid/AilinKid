@@ -1,3 +1,5 @@
+![morrySnow's GitHub stats](https://github-readme-stats.vercel.app/api?username=AilinKid&show_icons=true&theme=jolly)
+
 ### Hi 👋 I am Lingxiang Tai
 
 - 🔭 I’m currently working on PingCAP for TiDB Product.
