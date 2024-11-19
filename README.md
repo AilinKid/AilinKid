@@ -1,4 +1,4 @@
-![morrySnow's GitHub stats](https://github-readme-stats.vercel.app/api?username=AilinKid&show_icons=true&theme=jolly)
+![AilinKid's GitHub stats](https://github-readme-stats.vercel.app/api?username=AilinKid&show_icons=true&theme=jolly)
 
 ### Hi 👋 I am Lingxiang Tai
 
