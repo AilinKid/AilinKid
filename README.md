@@ -3,9 +3,8 @@
 ### Hi 👋 I am Lingxiang Tai
 
 - 🔭 I’m currently working on PingCAP for TiDB Product.
-- 🌱 I’m currently learning Distributed Systems and Storage.
-- 👯 I’m looking to collaborate on OceanBase, CockroachDB and ClickHouse.
-- 🤔 I’m looking for help with many things, be patient with me.
+- 👯 I’m always looking into collaborate on OceanBase, CockroachDB and ClickHouse.
+- 🤔 I’m currently looking for help with being a portfolio trader with infra capability.
 - 💬 Ask me about ...
 - 📫 How to reach me: tlxarena@gmail.com or 314806019@qq.com
 - 😄 Pronouns: Not this time or Never
